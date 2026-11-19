@@ -1,8 +1,6 @@
 # Vizzie
 
-Vizzie is a free, web-based tool for visualising and mapping open data — connected to
-280+ open-data portals across 40+ countries, with licence-cleared boundaries and no GIS
-skills required.
+Vizzie is a mapping and analytics studio connected to the world's open data. There's nothing to download, and you don't need a GIS specialist to build beautiful maps, charts, and data stories.
 
 **Try it:** [www.vizzie.org](https://www.vizzie.org) · **Portal directory:**
 [vizzie.org/portals](https://www.vizzie.org/portals/) · **Tutorials:**
