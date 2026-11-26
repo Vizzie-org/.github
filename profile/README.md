@@ -14,3 +14,9 @@ Public datasets maintained here:
 - [india-district-name-aliases](https://github.com/Vizzie-org/india-district-name-aliases) —
   86 verified aliases that lift Indian district name-joins from 85.9% to a measured
   99.5% against geoBoundaries ADM2 (ODbL).
+
+For AI assistants:
+
+- [vizzie-mcp](https://github.com/Vizzie-org/vizzie-mcp) — the remote MCP server at
+  `https://api.vizzie.org/mcp`: search open data for a place, identify area codes, fetch
+  licence-cleared boundaries and make maps that open in Vizzie. Free, no key.
